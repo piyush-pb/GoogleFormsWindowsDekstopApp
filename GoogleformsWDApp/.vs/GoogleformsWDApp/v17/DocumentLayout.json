@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VisualStudio Data\\GoogleformsWDApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|e:\\visualstudio data\\googleformswdapp\\createnewsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|solutionrelative:createnewsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|e:\\visualstudio data\\googleformswdapp\\createnewsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|solutionrelative:createnewsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|e:\\visualstudio data\\googleformswdapp\\createnewsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|solutionrelative:createnewsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|e:\\visualstudio data\\googleformswdapp\\viewsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|solutionrelative:viewsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|e:\\visualstudio data\\googleformswdapp\\viewsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|solutionrelative:viewsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|e:\\visualstudio data\\googleformswdapp\\viewsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|solutionrelative:viewsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|e:\\visualstudio data\\googleformswdapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|e:\\visualstudio data\\googleformswdapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|e:\\visualstudio data\\googleformswdapp\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2E0223E7-6CE4-4857-A7BD-94D441BAD26E}|GoogleformsWDApp.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewSubmissionform.vb [Design]",
+              "DocumentMoniker": "E:\\VisualStudio Data\\GoogleformsWDApp\\ViewSubmissionform.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionform.vb",
+              "ToolTip": "E:\\VisualStudio Data\\GoogleformsWDApp\\ViewSubmissionform.vb [Design]",
+              "RelativeToolTip": "ViewSubmissionform.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T10:31:09.902Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateNewSubmissionform.vb",
+              "DocumentMoniker": "E:\\VisualStudio Data\\GoogleformsWDApp\\CreateNewSubmissionform.vb",
+              "RelativeDocumentMoniker": "CreateNewSubmissionform.vb",
+              "ToolTip": "E:\\VisualStudio Data\\GoogleformsWDApp\\CreateNewSubmissionform.vb",
+              "RelativeToolTip": "CreateNewSubmissionform.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T18:27:10.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateNewSubmissionform.Designer.vb",
+              "DocumentMoniker": "E:\\VisualStudio Data\\GoogleformsWDApp\\CreateNewSubmissionform.Designer.vb",
+              "RelativeDocumentMoniker": "CreateNewSubmissionform.Designer.vb",
+              "ToolTip": "E:\\VisualStudio Data\\GoogleformsWDApp\\CreateNewSubmissionform.Designer.vb",
+              "RelativeToolTip": "CreateNewSubmissionform.Designer.vb",
+              "ViewState": "AQIAALoAAAAAAAAAAAAqwMEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T00:15:33.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateNewSubmissionform.vb [Design]",
+              "DocumentMoniker": "E:\\VisualStudio Data\\GoogleformsWDApp\\CreateNewSubmissionform.vb",
+              "RelativeDocumentMoniker": "CreateNewSubmissionform.vb",
+              "ToolTip": "E:\\VisualStudio Data\\GoogleformsWDApp\\CreateNewSubmissionform.vb [Design]",
+              "RelativeToolTip": "CreateNewSubmissionform.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T00:26:39.948Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewSubmissionform.Designer.vb",
+              "DocumentMoniker": "E:\\VisualStudio Data\\GoogleformsWDApp\\ViewSubmissionform.Designer.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionform.Designer.vb",
+              "ToolTip": "E:\\VisualStudio Data\\GoogleformsWDApp\\ViewSubmissionform.Designer.vb",
+              "RelativeToolTip": "ViewSubmissionform.Designer.vb",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowB8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T06:32:58.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewSubmissionform.vb",
+              "DocumentMoniker": "E:\\VisualStudio Data\\GoogleformsWDApp\\ViewSubmissionform.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionform.vb",
+              "ToolTip": "E:\\VisualStudio Data\\GoogleformsWDApp\\ViewSubmissionform.vb",
+              "RelativeToolTip": "ViewSubmissionform.vb",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T10:03:24.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "E:\\VisualStudio Data\\GoogleformsWDApp\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\VisualStudio Data\\GoogleformsWDApp\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T06:54:47.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "E:\\VisualStudio Data\\GoogleformsWDApp\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\VisualStudio Data\\GoogleformsWDApp\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T17:05:18.071Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "E:\\VisualStudio Data\\GoogleformsWDApp\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "E:\\VisualStudio Data\\GoogleformsWDApp\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T19:10:24.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

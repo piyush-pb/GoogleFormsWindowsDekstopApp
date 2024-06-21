@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VisualStudio Data\\BackendGoogleformWDApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC71E48-395D-4067-85DB-A1CC3F9F4C6F}|BackendGoogleformWDApp.njsproj|E:\\VisualStudio Data\\BackendGoogleformWDApp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DC71E48-395D-4067-85DB-A1CC3F9F4C6F}|BackendGoogleformWDApp.njsproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC71E48-395D-4067-85DB-A1CC3F9F4C6F}|BackendGoogleformWDApp.njsproj|E:\\VisualStudio Data\\BackendGoogleformWDApp\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5DC71E48-395D-4067-85DB-A1CC3F9F4C6F}|BackendGoogleformWDApp.njsproj|solutionrelative:app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC71E48-395D-4067-85DB-A1CC3F9F4C6F}|BackendGoogleformWDApp.njsproj|E:\\VisualStudio Data\\BackendGoogleformWDApp\\routes\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{5DC71E48-395D-4067-85DB-A1CC3F9F4C6F}|BackendGoogleformWDApp.njsproj|solutionrelative:routes\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC71E48-395D-4067-85DB-A1CC3F9F4C6F}|BackendGoogleformWDApp.njsproj|E:\\VisualStudio Data\\BackendGoogleformWDApp\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DC71E48-395D-4067-85DB-A1CC3F9F4C6F}|BackendGoogleformWDApp.njsproj|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "E:\\VisualStudio Data\\BackendGoogleformWDApp\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "E:\\VisualStudio Data\\BackendGoogleformWDApp\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T16:09:26.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.ts",
+              "DocumentMoniker": "E:\\VisualStudio Data\\BackendGoogleformWDApp\\routes\\index.ts",
+              "RelativeDocumentMoniker": "routes\\index.ts",
+              "ToolTip": "E:\\VisualStudio Data\\BackendGoogleformWDApp\\routes\\index.ts",
+              "RelativeToolTip": "routes\\index.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-21T11:59:01.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "E:\\VisualStudio Data\\BackendGoogleformWDApp\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "E:\\VisualStudio Data\\BackendGoogleformWDApp\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T11:57:23.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.ts",
+              "DocumentMoniker": "E:\\VisualStudio Data\\BackendGoogleformWDApp\\app.ts",
+              "RelativeDocumentMoniker": "app.ts",
+              "ToolTip": "E:\\VisualStudio Data\\BackendGoogleformWDApp\\app.ts",
+              "RelativeToolTip": "app.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-21T10:50:36.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
