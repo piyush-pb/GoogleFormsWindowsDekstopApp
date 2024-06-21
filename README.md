@@ -2,7 +2,9 @@
 
 ## Desktop App Description
 
-This desktop application allows users to create and view submissions through a user-friendly interface. The application features two main functionalities:
+This desktop application allows users to create and view submissions through a user-friendly interface. 
+Just like Google forms clone 
+The application features two main functionalities:
 
 ### Main Form
 - **View Submissions Button**: Opens a new form to view previously submitted forms.
